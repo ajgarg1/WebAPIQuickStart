@@ -1,0 +1,13 @@
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\WebAPIQuickStart.exe.config
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\WebAPIQuickStart.exe
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\WebAPIQuickStart.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\Newtonsoft.Json.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\bin\Debug\Newtonsoft.Json.xml
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\obj\Debug\WebAPIQuickStart.csprojAssemblyReference.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\obj\Debug\WebAPIQuickStart.csproj.CoreCompileInputs.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\obj\Debug\WebAPIQuickStart.csproj.CopyComplete
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\obj\Debug\WebAPIQuickStart.exe
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\WebAPIQuickStart\WebAPIQuickStart\obj\Debug\WebAPIQuickStart.pdb
