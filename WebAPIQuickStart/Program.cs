@@ -21,7 +21,7 @@ namespace WebAPIQuickStart
             // e.g. you@yourorg.onmicrosoft.com
             string userName = "Ajay.Garg@rsystems.com";
             // e.g. y0urp455w0rd
-            string password = "Welcome%11364rs";
+            string password = "";
 
             // Azure Active Directory registered app clientid for Microsoft samples
             string clientId = "51f81489-12ee-4a9e-aaae-a2591f45987d";
